@@ -1,17 +1,12 @@
 import pygame
 import os
-from datetime import datetime
 import threading
 import time
-import gspread
-from oauth2client.service_account import ServiceAccountCredentials
 import tkinter as tk
 import math
 from math import atan2 # degrees
 import pandas as pd
 import numpy as np
-# from pygame.constants import USEREVENT
-# from pygame.display import toggle_fullscreen
 
 root = tk.Tk()
 
