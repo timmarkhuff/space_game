@@ -426,7 +426,7 @@ class ship_1:
     def __init__(self, image, team, is_ai = True, 
                     health=5, fuel=2000, maximum_torpedoes=0,
                     maximum_bullets=3, bullet_recharge_time=1,
-                    acceleration=.5, accuracy=50):
+                    acceleration=.261, accuracy=50):
         global event_ID, ship_id
         
         # image
