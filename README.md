@@ -4,7 +4,7 @@ A simple 2D space game built with Pygame. This was my first game, and one of my 
 
 I added many features, including:
 * Basic physics
-* Round-based gameplay wiht increasing difficulty
+* Round-based gameplay with increasing difficulty
 * Fuel management system
 * Currency and purchasable upgrades
 * Enemy and friendly AI
